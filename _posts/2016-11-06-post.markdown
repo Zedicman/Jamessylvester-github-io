@@ -1,0 +1,7 @@
+---
+layout: post
+title: "This is a test post"
+date: 2016-11-6
+categories: Test
+---
+This is purely a test post. The idea of creasting this test post is to see how every thing in jekyll website work.
