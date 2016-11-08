@@ -4,4 +4,4 @@ title: "Learning"
 date: 2016-11-6
 categories: Test
 ---
-This is purely a test post. The idea of creating this test post is to see how every thing in jekyll website work.
+This is purely a test post. The idea of creating this test post is to see how every thing in jekyll website work. Testing out new site themes. 
